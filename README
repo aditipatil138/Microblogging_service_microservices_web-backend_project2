@@ -22,7 +22,8 @@ To run this project on Tuffix OS-
   $ python3 -m pip install Flask-API pugsql 
 4. Install Foreman and HTTPie 
   $ sudo apt install –yes ruby-foreman httpie 
-5. Clone the GitHub repository https://github.com/aditipatil138/Microblogging_service_microservices_web-backend_project2
+5. Clone the GitHub repository 
+git clone https://github.com/aditipatil138/Microblogging_service_microservices_web-backend_project2
 6. cd to MicrobloggingService dir and run following commands: 
   $ flask init 
   $ foreman start 
